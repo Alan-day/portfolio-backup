@@ -1,3 +1,1 @@
 Updated portfolio built in React. 
-Development in progress....
-Started 14/09/2023
